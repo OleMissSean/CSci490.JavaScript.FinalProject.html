@@ -1,0 +1,40 @@
+<!--
+  Comments.html
+  Sean Staz
+  CSci 490 ~ Special Topics: JavaScript
+  01/13/2014
+-->
+
+<!doctype html>
+<html lang = "en-US">
+<head>
+    <meta charset="utf-8">
+    <title>Contact Form</title>
+    <link rel="stylesheet" href="css/CommentsStyle.css">
+    <link rel="shortcut icon" type="image/x-icon" href="http://turing.cs.olemiss.edu/~ststasny/Projects/JavaScript.FinalProject/images/tree.jpg"/>
+    <script src="http://code.jquery.com/jquery-2.1.0.js"></script>
+	<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+    <!--*7* Demonstrate the use of AJAX to send and receive data to/ from the web server.-->
+    <script src="js/ajax.js"></script>
+    <!--*3.d* Demonstrate the handling of onfocus.-->
+    <script src="js/Comments.js"></script>
+</head>
+
+<body>
+<div id="contactForm">
+    <form action="#" method="post" id="theForm">
+	    <fieldset>
+            <legend>Comments</legend>
+	        <p>Please fill out all of the following:</p>
+            <!--*1.a* Demonstrate the use of a Text Input.-->
+            <!--*2* Demonstrate field level validation.-->
+	        <div class="two"><label for="name">Name</label><input type="text" name="name" id="name" required></div>
+	        <div class="two"><label for="email">Email</label><input type="email" name="email" id="email" required></div>
+	        <div class="two"><label for="comments">Comments</label><textarea name="comments" id="comments" required></textarea></div>
+            <!--*1.d* Demonstrate the use of a Button.-->
+	        <div class="one"><input type="submit" value="Submit" id="submit"></div> 
+	    </fieldset>
+	</form>
+</div>
+</body>
+</html>
