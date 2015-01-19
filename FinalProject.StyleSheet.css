@@ -1,0 +1,65 @@
+/*
+  FinalProject.StyleSheet.css
+  Sean Staz
+  CSci 490 ~ Special Topics: JavaScript
+  01/13/2014
+*/
+
+/*
+    *8* Use a design unique from those examples that have been used in class.    
+*/
+
+body
+{
+    background-color: #808080
+}
+
+h1
+{
+	font-family: 'Lucida Bright', Georgia, serif;
+	font-size: 28px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.3999996185303px;
+}
+
+h3
+{
+	font-family: 'Lucida Bright', Georgia, serif;
+	font-size: 22px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.3999996185303px;
+}
+
+p
+{
+	font-family: 'Lucida Bright', Georgia, serif;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+
+blockquote
+{
+	font-family: 'Lucida Bright', Georgia, serif;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 30px;
+}
+
+pre
+{
+	font-family: 'Lucida Bright', Georgia, serif;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 18.5714282989502px;
+}
