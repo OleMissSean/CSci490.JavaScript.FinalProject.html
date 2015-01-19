@@ -39,3 +39,6 @@ Submission:
 +Be prepared to present your project on Friday during class. Upload this version of your project before class begins.
 +Be prepared to answer a series of questions about all facets of your project during your presentation.
 +Upload your final project for grading to the corresponding drop-box on Blackboard on or before Friday 1/16/2015 midnight. This will allow for any last minute changes you want to make after your presentation.
+
+
+**If code is downloaded the php files should be placed in a resources folder; the js, a js folder; and the css, a css folder.
