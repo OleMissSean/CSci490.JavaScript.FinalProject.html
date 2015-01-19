@@ -42,3 +42,5 @@ Submission:
 
 
 **If code is downloaded the php files should be placed in a resources folder; the js, a js folder; and the css, a css folder.
+
+To view this website follow this link: http://turing.cs.olemiss.edu/~ststasny/Projects/JavaScript.FinalProject/Home.html
